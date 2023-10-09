@@ -15,8 +15,20 @@ Salesforce Administration | Reports & Dashboards | User Account Maintenance | Da
 Cohort Member, Salesforce Talent Alliance
 <img width="726" alt="TA Career Cohorts Acceptance Badge" src="https://github.com/Battlecc85/Battlecc85/assets/90076156/75fb23c5-f3e9-435b-98d0-aa173de7b52d">
 
+
 Salesforce Certified Associate
-![2022-08_Badge_SF-Certified_Associate_High-Res](https://github.com/Battlecc85/Battlecc85/assets/90076156/d0cffbd8-109a-4231-a789-783f92b8c362)
+
+![Screenshot 2023-10-09 061636](https://github.com/Battlecc85/Battlecc85/assets/90076156/b83f95e1-81ed-4110-a46d-94d19f23f505)
+
+
+
+
+
+
+
+
+
+
 
 
 ## Connect with Me
