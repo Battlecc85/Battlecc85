@@ -34,7 +34,7 @@ Salesforce Certified Associate
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/chrystalbattle/
-- Salesforce: https://www.salesforce.com/trailblazer/cbattle12
+- Salesforce: https://www.salesforce.com/trailblazer/chrystalbattle12
 
 
 I'm always excited to connect with fellow developers, especially those who are also starting their coding journey. Feel free to reach out to me through any of the provided platforms. Let's learn and grow together!
